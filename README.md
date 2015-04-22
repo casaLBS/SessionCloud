@@ -25,3 +25,4 @@ No.|Session|Speaker|Date
 3. |Ansible|DJ|24 Apr.
 4. |Design Patterns in DS|Ruliu|TBD
 5. |Myfun structure|Xv|TBD
+6. |Meteor - build an app as a meteor passed|Jingqiang|TBD
