@@ -26,3 +26,4 @@ No.|Session|Speaker|Date
 4. |Design Patterns in DS|Ruliu|TBD
 5. |Myfun structure|Xv|TBD
 6. |Meteor - build an app as a meteor passed|Jingqiang|TBD
+7. |Refactor & Dojo|Tao & Yanmin&Xv|TBD
