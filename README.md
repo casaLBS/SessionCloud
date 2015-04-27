@@ -23,7 +23,7 @@ No.|Session|Speaker|Date
 1. |eXtreme Programming|Yuanlei|17 Apr.
 2. |Prepush&CI|Chao|21 Apr.
 3. |Ansible|DJ|24 Apr.
-4. |Design Patterns in DS|Ruliu|TBD
-5. |Myfun structure|Xv|TBD
+4. |Myfun structure|Xv|28 Apr.
+5. |Design Patterns in DS|Ruliu|30 Apr.
 6. |Meteor - build an app as a meteor passed|Jingqiang|TBD
 7. |Refactor & Dojo|Tao & Yanmin & Xv|TBD
