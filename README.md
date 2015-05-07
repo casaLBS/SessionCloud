@@ -28,3 +28,5 @@ No.|Session|Speaker|Date
 6. |Meteor - build an app as a meteor passed|Jingqiang|TBD
 7. |Refactor & Dojo|Tao & Yanmin & Xv|5 May
 8. |Java Memory Model|Yuanlei|15 May
+9. |Django & Ionic build map app | Fengda HUANG | TBD
+10. |Yu-Gi-Oh | Fengda HUANG | TBD
