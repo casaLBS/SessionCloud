@@ -26,4 +26,5 @@ No.|Session|Speaker|Date
 4. |Myfun structure|Xv|28 Apr.
 5. |Design Patterns in DS|Ruliu|30 Apr.
 6. |Meteor - build an app as a meteor passed|Jingqiang|TBD
-7. |Refactor & Dojo|Tao & Yanmin & Xv|TBD
+7. |Refactor & Dojo|Tao & Yanmin & Xv|5 May
+8. |Java Memory Model|Yuanlei|15 May
