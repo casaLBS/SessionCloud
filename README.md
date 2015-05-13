@@ -27,6 +27,7 @@ No.|Session|Speaker|Date
 5. |Design Patterns in DS|Ruliu|30 Apr.
 6. |Meteor - build an app as a meteor passed|Jingqiang|TBD
 7. |Refactor & Dojo|Tao & Yanmin & Xv|5 May
-8. |Java Memory Model|Yuanlei|15 May
-9. |Django & Ionic build map app | Fengda HUANG | TBD
+8. |Monog DB | Sijian | 12 May
+9. |Java Memory Model|Yuanlei|15 May
 10. |Yu-Gi-Oh | Fengda HUANG | TBD
+11. |Django & Ionic build map app | Fengda HUANG | TBD
