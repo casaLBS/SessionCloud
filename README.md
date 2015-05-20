@@ -3,7 +3,7 @@ Schedule of CASA Session Cloud
 
 No.|Session|Speaker|Date
 ---|-------|-------|----
- |Android Bacis|Dandan|
+ |Android Basic|Dandan|
  |Node.js|Sijian|
  |Talking about TDD|Tao
  |CI|Xi
@@ -29,6 +29,7 @@ No.|Session|Speaker|Date
 7. |Refactor & Dojo|Tao & Yanmin & Xv|5 May
 8. |Monog DB | Sijian | 12 May
 9. |Java Memory Model|Yuanlei|15 May
-10. |Art of Paring|Xi|19 May
+10. |Art of Paring|Xi|~~19 May~~
 11. |Yu-Gi-Oh | Fengda HUANG | 22 May
 12. |Django & Ionic build map app | Fengda HUANG | TBD
+13. |Music Basic|Jingqiang|TBD
