@@ -32,4 +32,5 @@ No.|Session|Speaker|Date
 10. |Art of Paring|Xi|~~19 May~~
 11. |Yu-Gi-Oh | Fengda HUANG | 22 May
 12. |Django & Ionic build map app | Fengda HUANG | TBD
-13. |Music Basic|Jingqiang|TBD
+13. |React workshop|Chao|17 Jun
+14. |Pecha-kucha|Xu&Fengda&Yanmin&Jingqiang&Qing |24 Jun
