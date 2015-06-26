@@ -34,3 +34,5 @@ No.|Session|Speaker|Date
 12. |Django & Ionic build map app | Fengda HUANG | TBD
 13. |React workshop|Chao|17 Jun
 14. |Pecha-kucha|Xu&Fengda&Yanmin&Jingqiang&Qing |24 Jun
+15. |Self-introduction|Xu
+16. |Travis-ci|Xu
